@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ASCII to Binary Conversion</title>
+<!--meta name="description" content="CRYPO (Best Encryption for Network Security)! Convert Ascii to Binary. Ascii 2 Binary Online. String Function. The binary number system (aka base 2) represents values using two symbols, typically 0 and 1. Computers call these bits. A bit is either off (0) or on (1). When arranged in sets of 8 bits (1 byte) 256 values can be represented (0-255). Using an ASCII chart, these values can be mapped to characters and text can be stored. Ever want to send an encoded message that only a handful of people can actually crack the code? Well, look no further; This sweet conversion tool will take any text string and convert it into binary code - you know? Those little 1's and 0's that make our world go around today... the digital world. So go ahead, send some coded messages.... That's right! Send a message to friend in digital format and all they have to do is come back here, plug it in to the binary field and Wow!"-->
+
+<meta name="generator" content="CMS:Crypo">
+<meta name="author" content="Gilant Holding">
+<meta name="googlebot" content="index,follow">
+<meta name="robots" content="index,follow">
+<meta name="revisit-after" content="7 Days">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="classification" content="tools">
+<meta name="rating" content="General">
+<meta name="language" content="en-us">
+
+<meta itemprop="name" content="Best encryption for network security!">
+<meta itemprop="description" content="Free Encrypt (encryption) and Decrypt (decryption) online. Strong email encryption.">
+<meta itemprop="image" content="img/910x350.jpg">
+
+<link rel="icon" type="image/ico" href="http://crypo.bz.ms/favicon.ico">
+<link rel="shortcut icon" href="http://crypo.bz.ms/favicon.ico"> 
+<link rel="stylesheet" href="ASCII%20to%20Binary%20Conversion_files/main.css" type="text/css">
+
+</head>
+<body>
+
+
+<!--div class="informs">
+<h3>Strong Encryption and Powerful Decryption online, Encode or Decode string, Encrypt or Decrypt email messages.</h3>
+Mail encrypt. Mail encryption. Email encrypt. Encode PHP sorce online. 
+Encrypt Text Files. HTML and PHP Encryption. Bit Encryption. Voltage 
+Encryption. 
+Copyright Protection. Email encryption refers to encryption, and often 
+authentication, of email messages, which can be done in order to protect
+ the content. 
+Email encryption program. Online Email Encryption. Strong email 
+encryption. Encode PHP Script. Windows Decoder. 
+Hosting Solution. Anti Spam Gratis. iPad Password Cracker. Free Usb 
+Encryption Software. Sometimes you want additional protection for your 
+e-mail communication to keep it from unwanted eyes. 
+Help protect your account and computer. Encrypted Email Exchange. Email 
+Encryption Software. Encrypt Online. Outlook Email Encryption.String 
+Decrypt. CBC Encryption. 
+Encrypt or Decrypt: AER-256, ARMON-64, ATOM-128, BASE-64, ESAB-46, 
+EZIP-64, FERON-74, GILA7, HAZZ-15, MEGAN-35, OKTO3, TIGO-3FX, TRIPO-5, 
+ZARA-128, HINDIA-4X, KOREX-3S, ARABICA-2RS, CHINZO-72C, JAPOO-C2S, 
+ZONG22.
+</div-->
+
+<form name="codForm">
+
+</div><div class="topmenu">
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr><td class="pagetitle" height="20" valign="middle">&nbsp; </td>
+</tr>
+<tr><td valign="top"><table width="920" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td class="rolbuz" width="920"><span class="page1title">ASCII to Binary Conversion<br>You can convert up to 128 ascii text to binary characters.</span></td></tr>
+<tr><td>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div><div class="maincode">
+<script type="text/javascript">
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('4 9(a){1=\'\';c(3=0;3<a.6;3++){d=5(a.b(3));1+=d+\' \'}7 1}4 5(a){f 1="e"+a.g(2);1=1.h(1.6-8,8);7 1}',18,18,'|r||i|function|binary|length|return||encode||charCodeAt|for||00000000|var|toString|substr'.split('|'),0,{}));
+</script>
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr><td class="mainpage" valign="top" bgcolor="#E4E4E4">
+<table width="910" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="top" width="533"><table width="910" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td class="ctitle" valign="middle">Enter a string in the box below</td></tr>
+<tr><td valign="top"><textarea class="m2write" onkeyup="this.form.code.value = encode(this.form.text.value)" name="text"></textarea></td></tr>
+<tr><td class="ctitle" valign="middle">Select all the text that appears here.</td></tr>
+<tr><td valign="top"><textarea class="m4write" name="code" readonly="readonly"></textarea></td></tr> 
+</tbody></table></td></tr></tbody></table></td></tr>
+<tr><td>
+</td></tr>
+<!--tr><td class="pageinformer">Ever want to send an encoded
+ message that only a handful of people can actually crack the code? The 
+binary numeral system, or base-2 number system, represents numeric 
+values using two symbols, 0 and 1. More specifically, the usual base-2 
+system is a positional notation with a radix of 2. Owing to its 
+straightforward implementation in digital electronic circuitry using 
+logic gates, the binary system is used internally by all modern 
+computers.</td></tr>
+<!-- String Conversion -->
+
+<div style="float:right;margin-right:-11px;margin-top:-4px;height:44px;position:relative;outline:hidden;overflow:hidden;border:none;display:none">
+<div style="float:right;margin-right:-1px;margin-top:-2px;"><img src="ASCII%20to%20Binary%20Conversion_files/a.png" alt="visitors" border="0"></div>
+</div>
+</td></tr>
+</tbody></table>
+</div>
+</form>
+
+ 
+
+
+</body></html>

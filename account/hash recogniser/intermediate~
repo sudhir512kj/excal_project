@@ -1,0 +1,8 @@
+<?php
+
+$hash = $_POST['find_type_hash'];
+$output = shell_exec('python typefinder '.$hash);
+echo $output;
+//echo "re";
+
+?>

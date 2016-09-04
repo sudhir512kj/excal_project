@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Binary to ASCII (Text) Conversion</title>
+<!--meta name="description" content="CRYPO (Best Encryption for Network Security)! Binary to ASCII (Text) Conversion. Binary to ascii text converter, decode binary number to ascii text, binary ascii text conversion chart table. Ever want to send an encoded messsage that only a handful of people can actually crack the code? Well, look no further; my brain hurt when I made it and I still have a slight hangover... so, enjoy! This shweet conversion tool will take any text string and convert it into binary code - you know? those little 1's and 0's that make our world go around today... the digital world."-->
+<meta name="generator" content="CMS:Crypo">
+<meta name="author" content="Gilant Holding">
+<meta name="googlebot" content="index,follow">
+<meta name="robots" content="index,follow">
+<meta name="revisit-after" content="7 Days">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="classification" content="tools">
+<meta name="rating" content="General">
+<meta name="language" content="en-us">
+
+<meta itemprop="name" content="Best encryption for network security!">
+<meta itemprop="description" content="Free Encrypt (encryption) and Decrypt (decryption) online. Strong email encryption.">
+<meta itemprop="image" content="img/910x350.jpg">
+
+<link rel="icon" type="image/ico" href="http://crypo.bz.ms/favicon.ico">
+<link rel="shortcut icon" href="http://crypo.bz.ms/favicon.ico"> 
+<link rel="stylesheet" href="Binary%20to%20ASCII%20%28Text%29%20Conversion_files/main.css" type="text/css">
+
+</head>
+<body>
+
+
+<!--div class="informs">
+<h3>Strong Encryption and Powerful Decryption online, Encode or Decode string, Encrypt or Decrypt email messages.</h3>
+Mail encrypt. Mail encryption. Email encrypt. Encode PHP sorce online. 
+Encrypt Text Files. HTML and PHP Encryption. Bit Encryption. Voltage 
+Encryption. 
+Copyright Protection. Email encryption refers to encryption, and often 
+authentication, of email messages, which can be done in order to protect
+ the content. 
+Email encryption program. Online Email Encryption. Strong email 
+encryption. Encode PHP Script. Windows Decoder. 
+Hosting Solution. Anti Spam Gratis. iPad Password Cracker. Free Usb 
+Encryption Software. Sometimes you want additional protection for your 
+e-mail communication to keep it from unwanted eyes. 
+Help protect your account and computer. Encrypted Email Exchange. Email 
+Encryption Software. Encrypt Online. Outlook Email Encryption.String 
+Decrypt. CBC Encryption. 
+Encrypt or Decrypt: AER-256, ARMON-64, ATOM-128, BASE-64, ESAB-46, 
+EZIP-64, FERON-74, GILA7, HAZZ-15, MEGAN-35, OKTO3, TIGO-3FX, TRIPO-5, 
+ZARA-128, HINDIA-4X, KOREX-3S, ARABICA-2RS, CHINZO-72C, JAPOO-C2S, 
+ZONG22.
+</div-->
+
+<form name="codForm">
+
+<td class="menu" width="420" bgcolor="#000000" align="right">
+<div class="addthis_toolbox addthis_default_style" style="float:right;text-align:right;">
+<a class="addthis_counter addthis_pill_style"></a> &nbsp; <div class="g-plusone" data-size="medium"></div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+</div><div class="topmenu">
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr><td class="pagetitle" height="20" valign="middle">&nbsp; </td>
+</tr>
+<tr><td valign="top"><table width="920" border="0" cellpadding="0" cellspacing="0">
+<tbody><!--tr><td class="rolbuz" width="920"><span class="page1title">Binary to ASCII (Text) Conversion<br>A binary-to-text encoding is encoding of data in plain text.</span></td></tr-->
+<tr><td>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div><div class="maincode">
+<script type="text/javascript">
+eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('4 d(a){9(a==\'\'){3\'\'}1=\'\';a=a.6(/\\b+/f,\' \');a=a.h(\' \').5(\'\');e(i=0;i<a.j;i+=8){1+=7.c(g(a.k(i,8),2))}3 1}',21,21,'|r||return|function|join|replace|String||if||s|fromCharCode|decode|for|ig|parseInt|split||length|substr'.split('|'),0,{}));
+</script>
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr><td class="mainpage" valign="top" bgcolor="#E4E4E4">
+<table width="910" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="top" width="533"><table width="910" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td class="ctitle" valign="middle">Enter a string in the box below</td></tr>
+<tr><td valign="top"><textarea class="m2write" onkeyup="this.form.code.value = decode(this.form.text.value)" name="text" width="2000%"></textarea></td></tr>
+<tr><td class="ctitle" valign="middle">Select all the text that appears here.</td></tr>
+<tr><td valign="top"><textarea class="m4write" name="code" readonly="readonly"></textarea></td></tr> 
+</tbody></table></td></tr></tbody></table></td></tr>
+<tr><td>
+</td></tr>
+<!--tr><td class="pageinformer">Binary to ASCII (Text) Conversion. A 
+binary-to-text encoding is encoding of data in plain text. More 
+precisely, it is an encoding of binary data in a sequence of 
+ASCII-printable characters. These encodings are necessary for 
+transmission of data when the channel or the protocol only allows 
+ASCII-printable characters, such as e-mail or usenet. PGP documentation 
+(RFC 2440) uses the term ASCII armor for binary-to-text encoding when 
+referring to Radix-64. The ASCII text-encoding standard uses 128 unique 
+values (0–127) to represent the alphabetic, numeric, and punctuation 
+characters commonly used in English, plus a selection of control codes 
+which do not represent printable characters. For example, the capital 
+letter A is ASCII character 65, the numeral 2 is ASCII 50, the character
+ } is ASCII 125, and the metacharacter carriage return is ASCII 13. 
+Systems based on ASCII use seven bits to represent these values 
+digitally. </td></tr-->
+<tr><td height="20"></td></tr>
+</tbody></table><!--table width="920" border="0" cellpadding="0" cellspacing="0" align="center"-->
+
+
+<tr><td>
+</td></tr><tr><td height="20"></td></tr>
+<tr><td class="menu" height="55" valign="middle" bgcolor="#000000">
+
+<div style="float:right;margin-right:-11px;margin-top:-4px;height:44px;position:relative;outline:hidden;overflow:hidden;border:none;display:none">
+<div style="float:right;margin-right:-1px;margin-top:-2px;"><img src="Binary%20to%20ASCII%20%28Text%29%20Conversion_files/a.png" alt="visitors" border="0"></div>
+</div>
+</td></tr>
+</tbody></table>
+</div>
+</form>
+
+
+
+</body></html>

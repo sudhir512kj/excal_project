@@ -1,0 +1,114 @@
+<?php
+$i=0;
+//$hash = "94b7a03b54bbd6db884af7ed99ee5719";
+$hash = $_POST['md5_hash'];
+
+if(strlen($hash)!=32)
+{
+echo "Invalid hash";
+exit(1);
+}
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=9961&database=i337.net&hash=".$hash);
+//echo $response;
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=1726&database=md5cracker.org&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=9194&database=md5.net&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=2756&database=md5online.net&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=5678&database=md5.my-addr.com&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=405&database=md5decryption.com&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=1633&database=md5crack&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=1688&database=authsecu&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=2121&database=netmd5crack&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=8744&database=md5pass&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+$response = file_get_contents("http://md5cracker.org/api/api.cracker.php?r=7109&database=i337.net&hash=".$hash);
+$result = json_decode($response, true);
+$list[$i++] = $result['result'];
+
+/*$response = file_get_contents("");
+
+$response = file_get_contents("");
+
+$response = file_get_contents("");
+
+$response = file_get_contents("");
+
+$response = file_get_contents("");*/
+
+$l =0 ;
+$newlist[0] = $list[0];
+
+for($j=1;$j<$i;$j++)
+{
+    
+	if($newlist[0] != $list[$j])
+		$newlist[$l++] = $list[$j];
+   
+}
+
+for($j=0;$j<=$l;$j++)
+{
+
+echo "The possible value of hash can be : ".$newlist[$j]."<br>";
+
+}
+/*
+
+$k=1;
+$count=1;
+
+for($j=0;$j<$i;$j++)
+{
+
+	if($list[$j]){
+	echo "Result as per the database".$k++." : ".$list[$j]."<br>";
+	$count++;
+	}
+}
+if($count==1)
+echo "hash value not found";
+
+/*
+$response = file_get_contents("");
+
+$response = file_get_contents("");
+
+$response = file_get_contents("");
+
+$response = file_get_contents("");
+
+$response = file_get_contents("");
+*/
+//echo md5("test");
+
+
+?>

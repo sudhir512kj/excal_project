@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Encode URI Component to utf-8 format</title>
+
+
+</head>
+<body>
+
+<form name="codForm">
+<div class="toplog">
+</div><div class="topmenu">
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr><td class="pagetitle" height="20" valign="middle">&nbsp; </td>
+</tr>
+<tr><td valign="top"><table width="920" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td class="rolbuz" width="920"><span class="page1title">Encode URI Component to utf-8 format.<br>Convert the character string into a sequence of bytes using the UTF-8 encoding</span></td></tr>
+<tr><td>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div><div class="maincode">
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+<tbody><tr><td class="mainpage" valign="top">
+<table width="910" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="top" width="533"><table width="910" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td class="ctitle" valign="middle"><br><br>Type or paste links or text to encode.</td></tr>
+<tr><td valign="top"><textarea class="m2write" onkeyup="this.form.code.value = encodeURIComponent(this.form.text.value)" name="text"></textarea></td></tr>
+<tr><td class="ctitle" valign="middle">Select all the text that appears in the box below.</td></tr>
+<tr><td valign="top"><textarea class="m4write" name="code" readonly="readonly"></textarea></td></tr> 
+</tbody></table></td></tr></tbody></table></td></tr>
+<tr><td>
+</td></tr>
+
+<tr><td height="20"></td></tr>
+</tbody></table><table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tbody><tr><td>
+</div>
+<div class="botpartner">
+<table width="920" border="0" cellpadding="0" cellspacing="0" align="center">
+
+<tbody><tr><td>
+</td></tr>
+<tr><td>
+</td></tr><tr><td height="20"></td></tr>
+</tbody></table>
+</div>
+</form>
+
+
+</body></html>

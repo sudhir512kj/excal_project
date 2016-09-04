@@ -1,0 +1,16 @@
+<?php
+
+//include('hash-identifer.py');
+//hash='asdf';
+//system('./hash-identifier');
+//var_dump(isalnum('asdf'));
+//echo md5('asdf');
+
+system('aircrack-ng -w rockyou.txt androidap-01.cap');
+
+//$output = shell_exec('python typefinder 94b7a03b54bbd6db884af7ed99ee5719');
+//$output = system('ls -l');
+//echo $output;
+//include 'new.py';
+//echo md5('rewanth');
+?>

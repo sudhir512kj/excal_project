@@ -1,0 +1,9 @@
+<html>
+	<body>
+		<form action="intermediate.php" method="POST" >
+		Enter the hash: 
+		<input type="text" name="find_type_hash" />
+		<input type="submit" name="submit" value="submit" /> 
+		</form>	
+	</body>
+</html>
